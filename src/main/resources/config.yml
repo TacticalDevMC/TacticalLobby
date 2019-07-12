@@ -1,2 +1,13 @@
 prefix: "&7[&6TacticalLobby&7] "
 geenpermissions: "%prefix% &cSorry, u hebt hier geen permissions voor."
+
+# USEABLE ICONS; arrow, arrow_bold, heart, coins, cross, checkmark, germany, diamond, triangle, square
+
+Join:
+  ActionbarMessage: "&7%arrow% &cWelkom op de server &f%player%&c."
+  Title:
+    text: ""
+    subTitle: ""
+    fadeIn: 3
+    stay: 4,
+    fadeOut: 3
