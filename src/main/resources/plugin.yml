@@ -1,0 +1,6 @@
+name: TacticalLobby
+version: ${project.version}
+main: me.tacticaldev.tacticallobby.TacticalLobby
+api-version: 1.13
+authors: [TacticalDev]
+description: Een Lobby plugin
